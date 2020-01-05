@@ -1,0 +1,11 @@
+h4 {
+  font-family: cursive;
+}
+
+p, li {
+  font: caption;
+}
+
+#coming-soon {
+  width: 75%;
+}
