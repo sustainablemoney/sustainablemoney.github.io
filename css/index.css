@@ -1,5 +1,23 @@
-h4 {
+h3, h4, h5 {
   font-family: cursive;
+}
+header, footer {
+  background-color: #cccccc;
+}
+
+footer {
+  position: fixed;
+  width: 100%;
+  bottom: 0px;
+  max-height: 3.5em;
+}
+
+header h3, footer div {
+  margin: 0 auto;
+  max-width: 960px;
+  width: 80%;
+  padding-top: .5em;
+  padding-bottom: .5em;
 }
 
 p, li {
@@ -45,3 +63,7 @@ td {
   margin: 5px;
   font-size: 12px;
 }
+
+./*space-for-footer {
+  padding-bottom: 5em;
+}*/
