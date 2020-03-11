@@ -1,23 +1,26 @@
 h3, h4, h5 {
   font-family: cursive;
 }
-.header, .footer {
+#header, #footer {
   background-color: #cccccc;
 }
 
-.footer {
+#footer {
   position: fixed;
   width: 100%;
   bottom: 0px;
-  max-height: 3.5em;
 }
 
-.header h3, .footer div {
+#header h3, #footer div {
   margin: 0 auto;
   max-width: 960px;
   width: 80%;
   padding-top: .5em;
   padding-bottom: .5em;
+}
+
+#footer p {
+  margin-bottom: .5em;
 }
 
 p, li {
