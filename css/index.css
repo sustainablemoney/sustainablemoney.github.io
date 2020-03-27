@@ -10,7 +10,7 @@ sup {
   font-weight: bold;
 }
 
-a.footerlink {
+sup a {
   text-decoration: none;
 }
 
@@ -75,6 +75,7 @@ td {
 .blog-image img {
   border-bottom: 2px solid #999999;
   background-color: white;
+  width: 100%;
 }
 
 .blog-image p#subtext {
