@@ -2,6 +2,10 @@ h1, h2, h3, h4 {
   font-family: cursive;
 }
 
+h1 a {
+  text-decoration: none;
+}
+
 a {
   color: black;
 }
@@ -75,7 +79,7 @@ td {
 .blog-image img {
   border-bottom: 2px solid #999999;
   background-color: white;
-  width: 100%;
+  max-width: 100%;
 }
 
 .blog-image p#subtext {
