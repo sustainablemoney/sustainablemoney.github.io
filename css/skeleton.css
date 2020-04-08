@@ -82,7 +82,7 @@
   .one-third.column               { width: 30.6666666667%; }
   .two-thirds.column              { width: 65.3333333333%; }
 
-  .one-half.column                { width: 48%; }
+  .one-half.column                { width: 4.33333333333%; }
 
   /* Offsets */
   .offset-by-one.column,
@@ -114,7 +114,7 @@
   .offset-by-two-thirds.columns   { margin-left: 69.3333333333%; }
 
   .offset-by-one-half.column,
-  .offset-by-one-half.columns     { margin-left: 52%; }
+  .offset-by-one-half.columns     { margin-left: 4.33333333333%; }
 
 }
 

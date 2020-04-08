@@ -18,6 +18,10 @@ sup a {
   text-decoration: none;
 }
 
+ol {
+  margin-left: 4.33333333333%;
+}
+
 #header, #footer {
   background-color: #cccccc;
 }
@@ -100,6 +104,10 @@ p.date {
   padding-bottom: .5em;
 }
 
-./*space-for-footer {
-  padding-bottom: 5em;
-}*/
+.quotation {
+  margin-left: 4.33333333333%;
+  border-left: 4px solid #999999;
+  max-width: 80%;
+  font-style: italic;
+  padding-left: 1em;
+}
