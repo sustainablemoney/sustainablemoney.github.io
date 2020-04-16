@@ -83,6 +83,9 @@ table#of-contents td, table#of-contents th{
     border-top: 4px solid black;
     background-color: #bbbbbb
   }
+  img {
+    max-width: 100%;
+  }
 
 }
 @media (min-width: 700px) {
