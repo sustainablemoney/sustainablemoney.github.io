@@ -105,6 +105,10 @@ td, th {
   text-align: center;
 }
 
+.center {
+  text-align: center;
+}
+
 table#of-contents td, table#of-contents th{
   text-align: left;
 }
