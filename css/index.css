@@ -113,6 +113,10 @@ table#of-contents td, table#of-contents th{
   text-align: left;
 }
 
+table thead {
+  background-color: white;
+}
+
 
 .book-header {
   background-color: #888888;
